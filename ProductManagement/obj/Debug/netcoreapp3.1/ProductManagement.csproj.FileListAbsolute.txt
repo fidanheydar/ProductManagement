@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.exe
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.deps.json
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.runtimeconfig.json
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.runtimeconfig.dev.json
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.dll
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.pdb
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.dll
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.pdb
+C:\Users\HP\Desktop\ProductManagement\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.genruntimeconfig.cache
